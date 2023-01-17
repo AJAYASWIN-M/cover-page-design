@@ -49,4 +49,4 @@
  ```
 
 # cover-page-design
-![output](coverpagE.png)
+![output](coverpage.png)
