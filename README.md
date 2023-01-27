@@ -70,3 +70,6 @@ Publish the website in the given URL.
 # cover-page-design
 ![coverpage](https://user-images.githubusercontent.com/118679692/212873939-f6e52add-2647-452a-93da-72e0aafcd9f5.png)
 
+# Result 
+
+The program for designing book cover page using HTML and CSS is executed successfully
